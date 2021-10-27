@@ -4,3 +4,6 @@
 [submodule "start/vim-mustache-handlebars"]
 	path = start/vim-mustache-handlebars
 	url = https://github.com/mustache/vim-mustache-handlebars
+[submodule "start/vimwiki"]
+	path = start/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
