@@ -7,3 +7,9 @@
 [submodule "start/vimwiki"]
 	path = start/vimwiki
 	url = https://github.com/vimwiki/vimwiki.git
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "start/vim-go"]
+	path = start/vim-go
+	url = https://github.com/fatih/vim-go.git
