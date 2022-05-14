@@ -19,3 +19,6 @@
 [submodule "start/openscad"]
 	path = start/openscad
 	url = https://github.com/sirtaj/vim-openscad.git
+[submodule "start/bazel-compilation-database"]
+	path = start/bazel-compilation-database
+	url = https://github.com/grailbio/bazel-compilation-database.git
