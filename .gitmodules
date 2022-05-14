@@ -22,3 +22,6 @@
 [submodule "start/bazel-compilation-database"]
 	path = start/bazel-compilation-database
 	url = https://github.com/grailbio/bazel-compilation-database.git
+[submodule "start/vim-caddyfile"]
+	path = start/vim-caddyfile
+	url = https://github.com/isobit/vim-caddyfile
