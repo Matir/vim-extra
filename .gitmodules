@@ -25,3 +25,6 @@
 [submodule "start/vim-caddyfile"]
 	path = start/vim-caddyfile
 	url = https://github.com/isobit/vim-caddyfile
+[submodule "start/rust.vim"]
+	path = start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
