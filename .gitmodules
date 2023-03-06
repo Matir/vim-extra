@@ -28,3 +28,6 @@
 [submodule "start/rust.vim"]
 	path = start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
+[submodule "start/earthly.vim"]
+	path = start/earthly.vim
+	url = https://github.com/earthly/earthly.vim.git
